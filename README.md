@@ -1,3 +1,7 @@
+Hi there! This is a React app that uses the OpenWeatherMap API to fetch weather data in cities around the world
+
+![](UIScreenshot.png) 
+________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
